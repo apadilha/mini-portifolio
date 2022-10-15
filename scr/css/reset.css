@@ -1,0 +1,21 @@
+/*CSS
+**Author...: Alex Padilha
+**
+** Copiwriting
+***/
+
+/*PEGA TODA AS TAGS NO HTML*/
+*{
+    margin: 0;  /*espaçamento externo no HTML*/
+    padding: 0; /*espaçamento interno*/
+    box-sizing: border-box; /**/
+
+}
+ul{
+    list-style: none;    
+}
+
+a{
+    text-decoration: none; /*decoracao do texto*/
+    color:#000;
+}
